@@ -169,6 +169,11 @@ p {
 
 .footfav {
     padding: 3% 5px;
+    color: #fff;
+}
+
+.footfav:hover {
+    background-color: grey;
 }
 
 /* Media Query for mobile responsiveness */
